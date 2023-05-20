@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhargav</h1>
-<h3 align="center">A passionate AI and Security developer from India</h3>
+<h3 align="center">A passionate AI developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhargav-roy" alt="bhargav-roy" /></a> </p>
 
