@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhargav</h1>
 <h3 align="center">A passionate AI developer from India</h3>
-<img align="right" alt="Coding" width="250" src="https://github.com/bhargav-roy/bhargav-roy/assets/79373109/16c9cb9a-05df-4228-846a-7a32023a0e51">
+<img align="right" alt="Coding" width="200" src="https://github.com/bhargav-roy/bhargav-roy/assets/79373109/16c9cb9a-05df-4228-846a-7a32023a0e51">
 
 - 🌱 I’m currently learning **Machine Learning and Backend Development**
 
